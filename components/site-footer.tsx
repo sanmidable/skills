@@ -16,7 +16,7 @@ export function SiteFooter() {
       </p>
       <a
         className="inline-flex size-10 items-center justify-center transition-[color,opacity,transform] duration-150 ease-out hover:text-foreground hover:opacity-100 active:scale-[0.96]"
-        href="https://github.com/Calypso4597/skills"
+        href="https://github.com/sanmidable/skills"
         target="_blank"
         rel="noreferrer"
         aria-label="Skills on GitHub"
