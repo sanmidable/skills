@@ -1,19 +1,5 @@
 [
   {
-    "slug": "design-taste-frontend",
-    "user": "Leonxlnx",
-    "repo": "taste-skill",
-    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
-    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/taste-skill/SKILL.md",
-    "name": "design-taste-frontend",
-    "topics": [
-      "visual",
-      "taste",
-      "frontend"
-    ],
-    "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. Reads the brief, infers design direction, and ships interfaces that do not look templated."
-  },
-  {
     "slug": "frontend-design",
     "user": "anthropics",
     "repo": "skills",
@@ -53,7 +39,7 @@
       "frontend",
       "craft"
     ],
-    "description": "Accessibility engineering for product UI \u2014 focus, keyboard, ARIA, forms, and screen readers. Use when building or reviewing components, modals, menus, or fixing a11y issues."
+    "description": "Accessibility engineering for product UI — focus, keyboard, ARIA, forms, and screen readers. Use when building or reviewing components, modals, menus, or fixing a11y issues."
   },
   {
     "slug": "better-colors",
@@ -67,7 +53,7 @@
       "systems",
       "craft"
     ],
-    "description": "OKLCH color for the web \u2014 convert, generate palettes, check contrast, handle gamut, and theme with semantic tokens including dark mode."
+    "description": "OKLCH color for the web — convert, generate palettes, check contrast, handle gamut, and theme with semantic tokens including dark mode."
   },
   {
     "slug": "better-interface",
@@ -95,7 +81,7 @@
       "frontend",
       "systems"
     ],
-    "description": "Layout structure for web UI \u2014 grouping, alignment, reading order, progressive disclosure, breakpoints, and RTL-aware spacing."
+    "description": "Layout structure for web UI — grouping, alignment, reading order, progressive disclosure, breakpoints, and RTL-aware spacing."
   },
   {
     "slug": "better-typography",
@@ -123,7 +109,7 @@
       "taste",
       "frontend"
     ],
-    "description": "UX writing and interface copy \u2014 button labels, errors, empty states, placeholders, and voice/tone for product UI."
+    "description": "UX writing and interface copy — button labels, errors, empty states, placeholders, and voice/tone for product UI."
   },
   {
     "slug": "improve-ui",
@@ -165,7 +151,7 @@
       "testing",
       "craft"
     ],
-    "description": "Strict motion review of a diff against Emil's craft bar \u2014 justified motion, easing, duration, origin, GPU-only props, a11y. Default to flagging; approval is earned."
+    "description": "Strict motion review of a diff against Emil's craft bar — justified motion, easing, duration, origin, GPU-only props, a11y. Default to flagging; approval is earned."
   },
   {
     "slug": "find-animation-opportunities",
@@ -179,7 +165,7 @@
       "taste",
       "craft"
     ],
-    "description": "Search a UI for places that should animate \u2014 and reject what shouldn't. Read-only: proposes precise motion recipes, does not implement them."
+    "description": "Search a UI for places that should animate — and reject what shouldn't. Read-only: proposes precise motion recipes, does not implement them."
   },
   {
     "slug": "animation-vocabulary",
@@ -193,7 +179,7 @@
       "taste",
       "craft"
     ],
-    "description": "Turn a vague motion description into the exact term \u2014 \"the bouncy popover thing\" \u2192 Pop in \u2014 so you can prompt agents and designers with the right words."
+    "description": "Turn a vague motion description into the exact term — \"the bouncy popover thing\" → Pop in — so you can prompt agents and designers with the right words."
   },
   {
     "slug": "apple-design",
@@ -207,7 +193,7 @@
       "interaction",
       "craft"
     ],
-    "description": "Apple's interface and fluid-motion principles from WWDC design talks, translated for the web \u2014 continuous gestures, rubber-banding, physical feel."
+    "description": "Apple's interface and fluid-motion principles from WWDC design talks, translated for the web — continuous gestures, rubber-banding, physical feel."
   },
   {
     "slug": "pick-ui-library",
@@ -221,21 +207,7 @@
       "frontend",
       "systems"
     ],
-    "description": "Opinionated library picker for common frontend tasks \u2014 toasts, cmdk, charts, DnD, OTP, motion \u2014 from Emil's trusted stack instead of AI inventing one."
-  },
-  {
-    "slug": "web-design-guidelines",
-    "user": "antfu",
-    "repo": "skills",
-    "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/web-design-guidelines/SKILL.md",
-    "githubUrl": "https://github.com/antfu/skills/blob/main/skills/web-design-guidelines/SKILL.md",
-    "name": "web-design-guidelines",
-    "topics": [
-      "visual",
-      "accessibility",
-      "frontend"
-    ],
-    "description": "Review UI code for web interface guideline compliance, including accessibility and UX best practices."
+    "description": "Opinionated library picker for common frontend tasks — toasts, cmdk, charts, DnD, OTP, motion — from Emil's trusted stack instead of AI inventing one."
   },
   {
     "slug": "impeccable",
@@ -333,7 +305,7 @@
       "craft",
       "frontend"
     ],
-    "description": "Audit Web Audio API code for sound synthesis best practices \u2014 procedural audio, UI sounds, and audio parameter quality."
+    "description": "Audit Web Audio API code for sound synthesis best practices — procedural audio, UI sounds, and audio parameter quality."
   },
   {
     "slug": "mastering-animate-presence",
@@ -347,7 +319,7 @@
       "interaction",
       "frontend"
     ],
-    "description": "Audit Motion/Framer Motion AnimatePresence usage \u2014 exit animations, modals, and presence state best practices."
+    "description": "Audit Motion/Framer Motion AnimatePresence usage — exit animations, modals, and presence state best practices."
   },
   {
     "slug": "morphing-icons",
@@ -361,7 +333,7 @@
       "visual",
       "craft"
     ],
-    "description": "Build icon components that morph into each other through SVG line transformation \u2014 icon transitions and transforms."
+    "description": "Build icon components that morph into each other through SVG line transformation — icon transitions and transforms."
   },
   {
     "slug": "pseudo-elements",
@@ -375,7 +347,7 @@
       "visual",
       "motion"
     ],
-    "description": "Audit CSS pseudo-elements and View Transitions API usage \u2014 hover effects, decorative layers, and page transitions."
+    "description": "Audit CSS pseudo-elements and View Transitions API usage — hover effects, decorative layers, and page transitions."
   },
   {
     "slug": "sounds-on-the-web",
@@ -389,7 +361,7 @@
       "accessibility",
       "craft"
     ],
-    "description": "Audit UI audio feedback \u2014 sound implementation, audio UX decisions, and accessibility."
+    "description": "Audit UI audio feedback — sound implementation, audio UX decisions, and accessibility."
   },
   {
     "slug": "to-spring-or-not-to-spring",
@@ -403,7 +375,7 @@
       "craft",
       "testing"
     ],
-    "description": "Audit animation timing \u2014 when to use springs vs easing, and fix motion that feels wrong."
+    "description": "Audit animation timing — when to use springs vs easing, and fix motion that feels wrong."
   },
   {
     "slug": "baseline-ui",
@@ -602,48 +574,6 @@
     "description": "React and Next.js performance optimization guidelines from Vercel Engineering. Use when writing, reviewing, or refactoring React/Next.js code."
   },
   {
-    "slug": "gpt-taste",
-    "user": "Leonxlnx",
-    "repo": "taste-skill",
-    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/gpt-tasteskill/SKILL.md",
-    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/gpt-tasteskill/SKILL.md",
-    "name": "gpt-taste",
-    "topics": [
-      "taste",
-      "motion",
-      "visual"
-    ],
-    "description": "High-agency UX/UI skill with strict layout variance, typography, and GSAP motion engineering constraints."
-  },
-  {
-    "slug": "minimalist-ui",
-    "user": "Leonxlnx",
-    "repo": "taste-skill",
-    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/minimalist-skill/SKILL.md",
-    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/minimalist-skill/SKILL.md",
-    "name": "minimalist-ui",
-    "topics": [
-      "visual",
-      "systems",
-      "craft"
-    ],
-    "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels."
-  },
-  {
-    "slug": "redesign-existing-projects",
-    "user": "Leonxlnx",
-    "repo": "taste-skill",
-    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/redesign-skill/SKILL.md",
-    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/redesign-skill/SKILL.md",
-    "name": "redesign-existing-projects",
-    "topics": [
-      "visual",
-      "craft",
-      "frontend"
-    ],
-    "description": "Upgrades existing websites and apps to premium quality. Audits current design and applies high-end standards without breaking functionality."
-  },
-  {
     "slug": "start-up",
     "user": "simoncorry",
     "repo": "foundry",
@@ -655,7 +585,7 @@
       "architecture",
       "craft"
     ],
-    "description": "Foundry chain opener: read the branch, handoff note, and session log before any work \u2014 re-reading the brief before kickoff."
+    "description": "Foundry chain opener: read the branch, handoff note, and session log before any work — re-reading the brief before kickoff."
   },
   {
     "slug": "construct-the-plan",
@@ -669,7 +599,7 @@
       "architecture",
       "craft"
     ],
-    "description": "Research the territory and write a durable plan file \u2014 narrative half for humans, working-memory half for the agent."
+    "description": "Research the territory and write a durable plan file — narrative half for humans, working-memory half for the agent."
   },
   {
     "slug": "frame-it",
@@ -697,7 +627,7 @@
       "architecture",
       "frontend"
     ],
-    "description": "Implement the settled Foundry plan unattended \u2014 log departures, keep moving, don't stall the chain on every pixel."
+    "description": "Implement the settled Foundry plan unattended — log departures, keep moving, don't stall the chain on every pixel."
   },
   {
     "slug": "test-it",
@@ -711,7 +641,7 @@
       "testing",
       "architecture"
     ],
-    "description": "Write behavioral tests against what the plan intended, not what the code happens to do \u2014 verify instead of punting to manual checks."
+    "description": "Write behavioral tests against what the plan intended, not what the code happens to do — verify instead of punting to manual checks."
   },
   {
     "slug": "security-scan",
@@ -753,7 +683,7 @@
       "architecture",
       "craft"
     ],
-    "description": "Write the next-session note \u2014 what's in flight, what's next, and what would be hard to reconstruct cold."
+    "description": "Write the next-session note — what's in flight, what's next, and what would be hard to reconstruct cold."
   },
   {
     "slug": "quiz",
@@ -781,7 +711,7 @@
       "typography",
       "craft"
     ],
-    "description": "Precise design and UI vocabulary from index.how/to/articulate \u2014 reverse-lookup for typography, color, layout, motion, a11y, components, and more when you need the exact word."
+    "description": "Precise design and UI vocabulary from index.how/to/articulate — reverse-lookup for typography, color, layout, motion, a11y, components, and more when you need the exact word."
   },
   {
     "slug": "grill-me",
@@ -851,7 +781,7 @@
       "architecture",
       "craft"
     ],
-    "description": "Configure a repo for Matt Pocock engineering skills \u2014 issue tracker, triage labels, and domain doc layout. Run once before first use."
+    "description": "Configure a repo for Matt Pocock engineering skills — issue tracker, triage labels, and domain doc layout. Run once before first use."
   },
   {
     "slug": "triage",
@@ -865,7 +795,7 @@
       "architecture",
       "craft"
     ],
-    "description": "Move issues and external PRs through a triage state machine \u2014 categorise, verify, grill if needed, and write agent-ready briefs."
+    "description": "Move issues and external PRs through a triage state machine — categorise, verify, grill if needed, and write agent-ready briefs."
   },
   {
     "slug": "ux-heuristics",
@@ -880,5 +810,215 @@
       "interaction"
     ],
     "description": "Heuristic UX evaluation with Nielsen's 10 as the sole scorecard and Laws of UX as non-overlapping diagnostic lenses. Use for UX audits, usability reviews, and flow evaluations."
+  },
+  {
+    "slug": "interface-review",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/interface-review/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/interface-review/SKILL.md",
+    "name": "interface-review",
+    "topics": [
+      "testing",
+      "craft",
+      "interaction"
+    ],
+    "description": "User-invoked interface review of uncommitted work, a branch, or a PR — classifies introduced vs regression vs pre-existing, then routes through better-interface."
+  },
+  {
+    "slug": "create-design-md",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/create-design-md/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/create-design-md/SKILL.md",
+    "name": "create-design-md",
+    "topics": [
+      "systems",
+      "craft",
+      "visual"
+    ],
+    "description": "Create or update a DESIGN.md from an existing product repo or public website — extract design language and tokens for coding agents without changing product source."
+  },
+  {
+    "slug": "fixing-metadata",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-metadata/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-metadata/SKILL.md",
+    "name": "fixing-metadata",
+    "topics": [
+      "frontend",
+      "tooling",
+      "craft"
+    ],
+    "description": "Audit and fix HTML metadata — titles, descriptions, canonicals, Open Graph, Twitter cards, favicons, JSON-LD, and robots directives."
+  },
+  {
+    "slug": "animate",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animate/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animate/SKILL.md",
+    "name": "animate",
+    "topics": [
+      "motion",
+      "craft",
+      "interaction"
+    ],
+    "description": "Build an animation from scratch in the order that determines whether it feels right — purpose, tool, properties, curve, interruptibility, exit — then write the implementation."
+  },
+  {
+    "slug": "prototype",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/prototype/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/prototype/SKILL.md",
+    "name": "prototype",
+    "topics": [
+      "craft",
+      "visual",
+      "interaction"
+    ],
+    "description": "Build multiple genuinely different versions of a UI piece behind a visual picker so you can flip through them live and promote the one that feels right. Explicit invoke only."
+  },
+  {
+    "slug": "challenge-plan-1",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-plan-1/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-plan-1/SKILL.md",
+    "name": "challenge-plan-1",
+    "topics": [
+      "architecture",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry plan-challenge round 1 — stress-test a construct-the-plan result from a new research angle before implementation."
+  },
+  {
+    "slug": "challenge-implementation-1",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-implementation-1/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-implementation-1/SKILL.md",
+    "name": "challenge-implementation-1",
+    "topics": [
+      "testing",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry implementation-challenge round 1 — audit recent code changes for bugs and edge cases, then fix what you find."
+  },
+  {
+    "slug": "challenge-plan-2",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-plan-2/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-plan-2/SKILL.md",
+    "name": "challenge-plan-2",
+    "topics": [
+      "architecture",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry plan-challenge round 2 — stress-test a construct-the-plan result from a new research angle before implementation."
+  },
+  {
+    "slug": "challenge-implementation-2",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-implementation-2/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-implementation-2/SKILL.md",
+    "name": "challenge-implementation-2",
+    "topics": [
+      "testing",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry implementation-challenge round 2 — audit recent code changes for bugs and edge cases, then fix what you find."
+  },
+  {
+    "slug": "challenge-plan-3",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-plan-3/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-plan-3/SKILL.md",
+    "name": "challenge-plan-3",
+    "topics": [
+      "architecture",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry plan-challenge round 3 — stress-test a construct-the-plan result from a new research angle before implementation."
+  },
+  {
+    "slug": "challenge-implementation-3",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-implementation-3/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-implementation-3/SKILL.md",
+    "name": "challenge-implementation-3",
+    "topics": [
+      "testing",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry implementation-challenge round 3 — audit recent code changes for bugs and edge cases, then fix what you find."
+  },
+  {
+    "slug": "challenge-plan-4",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-plan-4/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-plan-4/SKILL.md",
+    "name": "challenge-plan-4",
+    "topics": [
+      "architecture",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry plan-challenge round 4 — stress-test a construct-the-plan result from a new research angle before implementation."
+  },
+  {
+    "slug": "challenge-implementation-4",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-implementation-4/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-implementation-4/SKILL.md",
+    "name": "challenge-implementation-4",
+    "topics": [
+      "testing",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry implementation-challenge round 4 — audit recent code changes for bugs and edge cases, then fix what you find."
+  },
+  {
+    "slug": "challenge-plan-5",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-plan-5/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-plan-5/SKILL.md",
+    "name": "challenge-plan-5",
+    "topics": [
+      "architecture",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry plan-challenge round 5 — stress-test a construct-the-plan result from a new research angle before implementation."
+  },
+  {
+    "slug": "challenge-implementation-5",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-implementation-5/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-implementation-5/SKILL.md",
+    "name": "challenge-implementation-5",
+    "topics": [
+      "testing",
+      "tooling",
+      "craft"
+    ],
+    "description": "Foundry implementation-challenge round 5 — audit recent code changes for bugs and edge cases, then fix what you find."
   }
 ]

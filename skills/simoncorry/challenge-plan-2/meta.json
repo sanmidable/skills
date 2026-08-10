@@ -1,0 +1,16 @@
+{
+  "slug": "challenge-plan-2",
+  "name": "challenge-plan-2",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-plan-2/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-plan-2/SKILL.md",
+  "description": "Foundry plan-challenge round 2 — stress-test a construct-the-plan result from a new research angle before implementation.",
+  "topics": [
+    "architecture",
+    "tooling",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/challenge-plan-2",
+  "installs": 0
+}

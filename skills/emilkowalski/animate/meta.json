@@ -1,0 +1,16 @@
+{
+  "slug": "animate",
+  "name": "animate",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animate/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animate/SKILL.md",
+  "description": "Build an animation from scratch in the order that determines whether it feels right — purpose, tool, properties, curve, interruptibility, exit — then write the implementation.",
+  "topics": [
+    "motion",
+    "craft",
+    "interaction"
+  ],
+  "pathSlug": "emilkowalski/animate",
+  "installs": 0
+}

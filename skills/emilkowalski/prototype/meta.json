@@ -1,0 +1,16 @@
+{
+  "slug": "prototype",
+  "name": "prototype",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/prototype/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/prototype/SKILL.md",
+  "description": "Build multiple genuinely different versions of a UI piece behind a visual picker so you can flip through them live and promote the one that feels right. Explicit invoke only.",
+  "topics": [
+    "craft",
+    "visual",
+    "interaction"
+  ],
+  "pathSlug": "emilkowalski/prototype",
+  "installs": 0
+}

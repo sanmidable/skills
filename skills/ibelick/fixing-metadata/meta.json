@@ -1,0 +1,16 @@
+{
+  "slug": "fixing-metadata",
+  "name": "fixing-metadata",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-metadata/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-metadata/SKILL.md",
+  "description": "Audit and fix HTML metadata — titles, descriptions, canonicals, Open Graph, Twitter cards, favicons, JSON-LD, and robots directives.",
+  "topics": [
+    "frontend",
+    "tooling",
+    "craft"
+  ],
+  "pathSlug": "ibelick/fixing-metadata",
+  "installs": 0
+}

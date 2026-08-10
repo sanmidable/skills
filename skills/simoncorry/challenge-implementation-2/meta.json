@@ -1,0 +1,16 @@
+{
+  "slug": "challenge-implementation-2",
+  "name": "challenge-implementation-2",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/challenge-implementation-2/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/challenge-implementation-2/SKILL.md",
+  "description": "Foundry implementation-challenge round 2 — audit recent code changes for bugs and edge cases, then fix what you find.",
+  "topics": [
+    "testing",
+    "tooling",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/challenge-implementation-2",
+  "installs": 0
+}

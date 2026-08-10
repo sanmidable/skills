@@ -1,0 +1,16 @@
+{
+  "slug": "interface-review",
+  "name": "interface-review",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/interface-review/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/interface-review/SKILL.md",
+  "description": "User-invoked interface review of uncommitted work, a branch, or a PR — classifies introduced vs regression vs pre-existing, then routes through better-interface.",
+  "topics": [
+    "testing",
+    "craft",
+    "interaction"
+  ],
+  "pathSlug": "jakubkrehel/interface-review",
+  "installs": 0
+}

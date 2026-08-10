@@ -1,0 +1,16 @@
+{
+  "slug": "create-design-md",
+  "name": "create-design-md",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/create-design-md/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/create-design-md/SKILL.md",
+  "description": "Create or update a DESIGN.md from an existing product repo or public website — extract design language and tokens for coding agents without changing product source.",
+  "topics": [
+    "systems",
+    "craft",
+    "visual"
+  ],
+  "pathSlug": "ibelick/create-design-md",
+  "installs": 0
+}
