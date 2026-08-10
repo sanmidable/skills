@@ -866,5 +866,19 @@
       "craft"
     ],
     "description": "Move issues and external PRs through a triage state machine \u2014 categorise, verify, grill if needed, and write agent-ready briefs."
+  },
+  {
+    "slug": "ux-heuristics",
+    "user": "sanmidable",
+    "repo": "ux-heuristics",
+    "rawUrl": "https://raw.githubusercontent.com/sanmidable/ux-heuristics/main/SKILL.md",
+    "githubUrl": "https://github.com/sanmidable/ux-heuristics/blob/main/SKILL.md",
+    "name": "ux-heuristics",
+    "topics": [
+      "testing",
+      "craft",
+      "interaction"
+    ],
+    "description": "Heuristic UX evaluation with Nielsen's 10 as the sole scorecard and Laws of UX as non-overlapping diagnostic lenses. Use for UX audits, usability reviews, and flow evaluations."
   }
 ]
