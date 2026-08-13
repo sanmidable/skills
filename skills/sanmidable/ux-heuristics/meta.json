@@ -5,7 +5,7 @@
   "repo": "ux-heuristics",
   "rawUrl": "https://raw.githubusercontent.com/sanmidable/ux-heuristics/main/SKILL.md",
   "githubUrl": "https://github.com/sanmidable/ux-heuristics/blob/main/SKILL.md",
-  "description": "Heuristic UX evaluation with Nielsen's 10 as the sole scorecard and Laws of UX as non-overlapping diagnostic lenses. Use for UX audits, usability reviews, and flow evaluations.",
+  "description": "Heuristic UX evaluation with Nielsen's 10 as the sole scorecard. Pair with ux-principles for Laws of UX and classic interaction principles.",
   "topics": [
     "testing",
     "craft",

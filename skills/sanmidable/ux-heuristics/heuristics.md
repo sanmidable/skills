@@ -34,7 +34,7 @@ For each heuristic: definition → what good looks like → probe questions → 
 
 **Failures:** "Submit payload"; cryptic codes as primary UI; wizard order that fights the mental model.
 
-*Mechanism overlap (do not double-count):* Jakob's Law, Mental Model — cite under H2/H4, not as separate Law findings.
+*Mechanism overlap:* Jakob's Law / Mental Model fold here — do not send to `ux-principles` as standalone findings.
 
 ---
 
@@ -66,7 +66,7 @@ For each heuristic: definition → what good looks like → probe questions → 
 
 **Failures:** "Save" vs "Apply" vs "Done" for the same effect; reinvented nav; mixed date formats.
 
-*Mechanism overlap:* Jakob's Law — report under H4/H2 only.
+*Mechanism overlap:* Jakob's Law folds here (with H2).
 
 ---
 
@@ -98,7 +98,7 @@ For each heuristic: definition → what good looks like → probe questions → 
 
 **Failures:** Multi-step wizards that hide earlier answers; icon-only toolbars with no tooltips; forcing re-entry of known data.
 
-*Mechanism overlap:* Miller's Law, Chunking, Working Memory, Cognitive Load — cite under H6, not as separate findings.
+*Mechanism overlap:* Miller's Law, Chunking, Working Memory, Cognitive Load fold here.
 
 ---
 
@@ -130,7 +130,7 @@ For each heuristic: definition → what good looks like → probe questions → 
 
 **Failures:** Dense settings dumps; competing CTAs; dashboard widgets nobody uses on the critical path.
 
-*Mechanism overlap:* Occam's Razor — cite under H8 only. H8 is **not** "make it pretty"; Aesthetic-Usability Effect is a caution in [laws.md](laws.md), not a score.
+*Mechanism overlap:* Occam's Razor folds here. H8 is **not** "make it pretty"; Aesthetic-Usability Effect is a caution in `ux-principles`, not a heuristic score.
 
 ---
 
@@ -164,4 +164,4 @@ For each heuristic: definition → what good looks like → probe questions → 
 
 **Failures:** Only a dense knowledge base with no in-product entry; tooltips that repeat the label; mandatory tutorial walls.
 
-*Related caution:* Paradox of the Active User (people jump in without manuals) — design for that; still provide H10 for complex domains. Not a separate finding type.
+*Related caution:* Paradox of the Active User (people jump in without manuals) — design for that; still provide H10 for complex domains.

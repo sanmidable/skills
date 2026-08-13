@@ -809,7 +809,7 @@
       "craft",
       "interaction"
     ],
-    "description": "Heuristic UX evaluation with Nielsen's 10 as the sole scorecard and Laws of UX as non-overlapping diagnostic lenses. Use for UX audits, usability reviews, and flow evaluations."
+    "description": "Heuristic UX evaluation with Nielsen's 10 as the sole scorecard. Pair with ux-principles for Laws of UX and classic interaction principles."
   },
   {
     "slug": "interface-review",
@@ -1020,5 +1020,19 @@
       "craft"
     ],
     "description": "Foundry implementation-challenge round 5 — audit recent code changes for bugs and edge cases, then fix what you find."
+  },
+  {
+    "slug": "ux-principles",
+    "user": "sanmidable",
+    "repo": "ux-principles",
+    "rawUrl": "https://raw.githubusercontent.com/sanmidable/ux-principles/main/SKILL.md",
+    "githubUrl": "https://github.com/sanmidable/ux-principles/blob/main/SKILL.md",
+    "name": "ux-principles",
+    "topics": [
+      "craft",
+      "interaction",
+      "testing"
+    ],
+    "description": "UX principles review — Laws of UX (Fitts, Hick, Doherty, Peak-End, Gestalt, …) plus progressive disclosure, affordances, mapping, defaults, and forgiveness. Complements ux-heuristics."
   }
 ]

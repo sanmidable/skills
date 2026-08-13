@@ -1,0 +1,16 @@
+{
+  "slug": "ux-principles",
+  "name": "ux-principles",
+  "user": "sanmidable",
+  "repo": "ux-principles",
+  "rawUrl": "https://raw.githubusercontent.com/sanmidable/ux-principles/main/SKILL.md",
+  "githubUrl": "https://github.com/sanmidable/ux-principles/blob/main/SKILL.md",
+  "description": "UX principles review — Laws of UX (Fitts, Hick, Doherty, Peak-End, Gestalt, …) plus progressive disclosure, affordances, mapping, defaults, and forgiveness. Complements ux-heuristics.",
+  "topics": [
+    "craft",
+    "interaction",
+    "testing"
+  ],
+  "pathSlug": "sanmidable/ux-principles",
+  "installs": 0
+}
