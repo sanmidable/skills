@@ -1034,5 +1034,33 @@
       "testing"
     ],
     "description": "UX principles review — Laws of UX (Fitts, Hick, Doherty, Peak-End, Gestalt, …) plus progressive disclosure, affordances, mapping, defaults, and forgiveness. Complements ux-heuristics."
+  },
+  {
+    "slug": "transitions-dev",
+    "user": "Jakubantalik",
+    "repo": "transitions.dev",
+    "rawUrl": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/main/skills/transitions-dev/SKILL.md",
+    "githubUrl": "https://github.com/Jakubantalik/transitions.dev/blob/main/skills/transitions-dev/SKILL.md",
+    "name": "transitions-dev",
+    "topics": [
+      "motion",
+      "craft",
+      "frontend"
+    ],
+    "description": "Production-ready CSS transitions for web apps from transitions.dev — badges, dropdowns, modals, page slides, toasts, skeletons, and more. Use when adding or auditing UI motion."
+  },
+  {
+    "slug": "transitions-polish",
+    "user": "Jakubantalik",
+    "repo": "transitions.dev",
+    "rawUrl": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/main/skills/transitions-polish/SKILL.md",
+    "githubUrl": "https://github.com/Jakubantalik/transitions.dev/blob/main/skills/transitions-polish/SKILL.md",
+    "name": "transitions-polish",
+    "topics": [
+      "motion",
+      "craft",
+      "testing"
+    ],
+    "description": "Polish existing motion against transitions.dev motion tokens — duration, distance, scale, blur, easing, and open/close asymmetry. Add-on to transitions-dev."
   }
 ]

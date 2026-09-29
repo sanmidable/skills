@@ -1,0 +1,16 @@
+{
+  "slug": "transitions-polish",
+  "name": "transitions-polish",
+  "user": "Jakubantalik",
+  "repo": "transitions.dev",
+  "rawUrl": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/main/skills/transitions-polish/SKILL.md",
+  "githubUrl": "https://github.com/Jakubantalik/transitions.dev/blob/main/skills/transitions-polish/SKILL.md",
+  "description": "Polish existing motion against transitions.dev motion tokens — duration, distance, scale, blur, easing, and open/close asymmetry. Add-on to transitions-dev.",
+  "topics": [
+    "motion",
+    "craft",
+    "testing"
+  ],
+  "pathSlug": "Jakubantalik/transitions-polish",
+  "installs": 0
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "transitions-dev",
+  "name": "transitions-dev",
+  "user": "Jakubantalik",
+  "repo": "transitions.dev",
+  "rawUrl": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/main/skills/transitions-dev/SKILL.md",
+  "githubUrl": "https://github.com/Jakubantalik/transitions.dev/blob/main/skills/transitions-dev/SKILL.md",
+  "description": "Production-ready CSS transitions for web apps from transitions.dev — badges, dropdowns, modals, page slides, toasts, skeletons, and more. Use when adding or auditing UI motion.",
+  "topics": [
+    "motion",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "Jakubantalik/transitions-dev",
+  "installs": 0
+}
