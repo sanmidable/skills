@@ -6,4 +6,4 @@ source: https://github.com/mattpocock/skills
 homepage: https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md
 ---
 
-Run a `/grilling` session, using the `/domain-modeling` skill.
+Call the Skill tool twice, for "grilling" and "domain-modeling".

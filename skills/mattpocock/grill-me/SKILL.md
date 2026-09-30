@@ -6,4 +6,4 @@ source: https://github.com/mattpocock/skills
 homepage: https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md
 ---
 
-Run a `/grilling` session.
+Call the Skill tool with "grilling".
