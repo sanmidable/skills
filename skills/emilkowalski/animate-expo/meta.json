@@ -1,0 +1,16 @@
+{
+  "slug": "animate-expo",
+  "name": "animate-expo",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animate-expo/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animate-expo/SKILL.md",
+  "description": "Build React Native / Expo animations that feel right on device — Reanimated, Gesture Handler, sheets, haptics. For web motion use animate.",
+  "topics": [
+    "motion",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "emilkowalski/animate-expo",
+  "installs": 0
+}

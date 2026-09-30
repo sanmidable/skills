@@ -1,0 +1,16 @@
+{
+  "slug": "break",
+  "name": "break",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/break/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/break/SKILL.md",
+  "description": "Render a component in every reachable state on a temporary page and stress-test it — visual report of what breaks under worst-case content.",
+  "topics": [
+    "testing",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "jakubkrehel/break",
+  "installs": 0
+}

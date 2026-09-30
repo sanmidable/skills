@@ -1,0 +1,16 @@
+{
+  "slug": "mobile-native",
+  "name": "mobile-native",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/mobile-native/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/mobile-native/SKILL.md",
+  "description": "Make web apps feel native on phones — sticky hover, 100vh, input zoom, tap lag, notch, PWA/touch fixes. For RN motion use animate-expo.",
+  "topics": [
+    "frontend",
+    "craft",
+    "interaction"
+  ],
+  "pathSlug": "emilkowalski/mobile-native",
+  "installs": 0
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "explain-interface",
+  "name": "explain-interface",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/explain-interface/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/explain-interface/SKILL.md",
+  "description": "Explain how something on the web was built — reverse-engineer layers and techniques from a live page or component without judging quality.",
+  "topics": [
+    "craft",
+    "frontend",
+    "visual"
+  ],
+  "pathSlug": "jakubkrehel/explain-interface",
+  "installs": 0
+}

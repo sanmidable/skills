@@ -1,0 +1,16 @@
+{
+  "slug": "ask-sonner",
+  "name": "ask-sonner",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/ask-sonner/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/ask-sonner/SKILL.md",
+  "description": "Sonner toast library guide — Toaster setup, promise/loading toasts, styling, theming, positioning, and common troubleshooting.",
+  "topics": [
+    "frontend",
+    "craft",
+    "interaction"
+  ],
+  "pathSlug": "emilkowalski/ask-sonner",
+  "installs": 0
+}

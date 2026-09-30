@@ -1,0 +1,16 @@
+{
+  "slug": "variant",
+  "name": "variant",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/variant/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/variant/SKILL.md",
+  "description": "Build multiple purposeful variants of a component behind a picker on the real page so you can iterate and choose a direction.",
+  "topics": [
+    "craft",
+    "visual",
+    "interaction"
+  ],
+  "pathSlug": "jakubkrehel/variant",
+  "installs": 0
+}

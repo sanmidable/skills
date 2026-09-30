@@ -1062,5 +1062,103 @@
       "testing"
     ],
     "description": "Polish existing motion against transitions.dev motion tokens — duration, distance, scale, blur, easing, and open/close asymmetry. Add-on to transitions-dev."
+  },
+  {
+    "slug": "animate-expo",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animate-expo/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animate-expo/SKILL.md",
+    "name": "animate-expo",
+    "topics": [
+      "motion",
+      "craft",
+      "frontend"
+    ],
+    "description": "Build React Native / Expo animations that feel right on device — Reanimated, Gesture Handler, sheets, haptics. For web motion use animate."
+  },
+  {
+    "slug": "ask-sonner",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/ask-sonner/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/ask-sonner/SKILL.md",
+    "name": "ask-sonner",
+    "topics": [
+      "frontend",
+      "craft",
+      "interaction"
+    ],
+    "description": "Sonner toast library guide — Toaster setup, promise/loading toasts, styling, theming, positioning, and common troubleshooting."
+  },
+  {
+    "slug": "mobile-native",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/mobile-native/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/mobile-native/SKILL.md",
+    "name": "mobile-native",
+    "topics": [
+      "frontend",
+      "craft",
+      "interaction"
+    ],
+    "description": "Make web apps feel native on phones — sticky hover, 100vh, input zoom, tap lag, notch, PWA/touch fixes. For RN motion use animate-expo."
+  },
+  {
+    "slug": "write-swift",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/write-swift/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/write-swift/SKILL.md",
+    "name": "write-swift",
+    "topics": [
+      "architecture",
+      "craft",
+      "tooling"
+    ],
+    "description": "Modern Swift craft — value types, Swift 6 concurrency, protocols/generics, API design, performance, Testing, and macros."
+  },
+  {
+    "slug": "break",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/break/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/break/SKILL.md",
+    "name": "break",
+    "topics": [
+      "testing",
+      "craft",
+      "frontend"
+    ],
+    "description": "Render a component in every reachable state on a temporary page and stress-test it — visual report of what breaks under worst-case content."
+  },
+  {
+    "slug": "explain-interface",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/explain-interface/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/explain-interface/SKILL.md",
+    "name": "explain-interface",
+    "topics": [
+      "craft",
+      "frontend",
+      "visual"
+    ],
+    "description": "Explain how something on the web was built — reverse-engineer layers and techniques from a live page or component without judging quality."
+  },
+  {
+    "slug": "variant",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/variant/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/variant/SKILL.md",
+    "name": "variant",
+    "topics": [
+      "craft",
+      "visual",
+      "interaction"
+    ],
+    "description": "Build multiple purposeful variants of a component behind a picker on the real page so you can iterate and choose a direction."
   }
 ]
