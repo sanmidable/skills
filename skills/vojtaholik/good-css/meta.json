@@ -1,0 +1,16 @@
+{
+  "slug": "good-css",
+  "name": "good-css",
+  "user": "vojtaholik",
+  "repo": "good-css",
+  "rawUrl": "https://raw.githubusercontent.com/vojtaholik/good-css/main/skills/good-css/SKILL.md",
+  "githubUrl": "https://github.com/vojtaholik/good-css/blob/main/skills/good-css/SKILL.md",
+  "description": "Opinionated modern CSS techniques for agents — adaptive declarations before breakpoints, CSS features before scripts. Works with plain CSS, Tailwind, StyleX, and more.",
+  "topics": [
+    "frontend",
+    "craft",
+    "systems"
+  ],
+  "pathSlug": "vojtaholik/good-css",
+  "installs": 0
+}

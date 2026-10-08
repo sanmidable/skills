@@ -754,5 +754,19 @@
       "interaction"
     ],
     "description": "Build multiple purposeful variants of a component behind a picker on the real page so you can iterate and choose a direction."
+  },
+  {
+    "slug": "good-css",
+    "user": "vojtaholik",
+    "repo": "good-css",
+    "rawUrl": "https://raw.githubusercontent.com/vojtaholik/good-css/main/skills/good-css/SKILL.md",
+    "githubUrl": "https://github.com/vojtaholik/good-css/blob/main/skills/good-css/SKILL.md",
+    "name": "good-css",
+    "topics": [
+      "frontend",
+      "craft",
+      "systems"
+    ],
+    "description": "Opinionated modern CSS techniques for agents — adaptive declarations before breakpoints, CSS features before scripts. Works with plain CSS, Tailwind, StyleX, and more."
   }
 ]
