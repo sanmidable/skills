@@ -3,6 +3,7 @@ import "@/styles/main.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
 import { DevTools } from "@/components/dev-tools";
 import { SiteFooter } from "@/components/site-footer";
 
@@ -74,6 +75,7 @@ export default function RootLayout({
           <SiteFooter />
         </main>
         <DevTools />
+        <Analytics />
       </body>
     </html>
   );
