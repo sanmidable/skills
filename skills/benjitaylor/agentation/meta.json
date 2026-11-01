@@ -1,0 +1,16 @@
+{
+  "slug": "agentation",
+  "name": "agentation",
+  "user": "benjitaylor",
+  "repo": "agentation",
+  "rawUrl": "https://raw.githubusercontent.com/benjitaylor/agentation/main/skills/agentation/SKILL.md",
+  "githubUrl": "https://github.com/benjitaylor/agentation/blob/main/skills/agentation/SKILL.md",
+  "description": "Add the Agentation visual feedback toolbar to a Next.js project and wire it so browser feedback reaches the coding agent.",
+  "topics": [
+    "tooling",
+    "frontend",
+    "craft"
+  ],
+  "pathSlug": "benjitaylor/agentation",
+  "installs": 0
+}

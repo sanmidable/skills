@@ -1,0 +1,16 @@
+{
+  "slug": "stageshow",
+  "name": "stageshow",
+  "user": "benjitaylor",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/benjitaylor/skills/main/stageshow/SKILL.md",
+  "githubUrl": "https://github.com/benjitaylor/skills/blob/main/stageshow/SKILL.md",
+  "description": "Build faux product UI that looks real — stills, cursor demos, phones, dashboards, bento grids and marketing heroes in React and CSS.",
+  "topics": [
+    "visual",
+    "motion",
+    "craft"
+  ],
+  "pathSlug": "benjitaylor/stageshow",
+  "installs": 0
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "agentation-self-driving",
+  "name": "agentation-self-driving",
+  "user": "benjitaylor",
+  "repo": "agentation",
+  "rawUrl": "https://raw.githubusercontent.com/benjitaylor/agentation/main/skills/agentation-self-driving/SKILL.md",
+  "githubUrl": "https://github.com/benjitaylor/agentation/blob/main/skills/agentation-self-driving/SKILL.md",
+  "description": "Autonomous design critique via the Agentation toolbar — annotate a live page in a headed browser for UI review and self-driving feedback.",
+  "topics": [
+    "testing",
+    "craft",
+    "tooling"
+  ],
+  "pathSlug": "benjitaylor/agentation-self-driving",
+  "installs": 0
+}

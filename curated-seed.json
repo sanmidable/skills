@@ -768,5 +768,47 @@
       "systems"
     ],
     "description": "Opinionated modern CSS techniques for agents — adaptive declarations before breakpoints, CSS features before scripts. Works with plain CSS, Tailwind, StyleX, and more."
+  },
+  {
+    "slug": "stageshow",
+    "user": "benjitaylor",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/benjitaylor/skills/main/stageshow/SKILL.md",
+    "githubUrl": "https://github.com/benjitaylor/skills/blob/main/stageshow/SKILL.md",
+    "name": "stageshow",
+    "topics": [
+      "visual",
+      "motion",
+      "craft"
+    ],
+    "description": "Build faux product UI that looks real — stills, cursor demos, phones, dashboards, bento grids and marketing heroes in React and CSS."
+  },
+  {
+    "slug": "agentation",
+    "user": "benjitaylor",
+    "repo": "agentation",
+    "rawUrl": "https://raw.githubusercontent.com/benjitaylor/agentation/main/skills/agentation/SKILL.md",
+    "githubUrl": "https://github.com/benjitaylor/agentation/blob/main/skills/agentation/SKILL.md",
+    "name": "agentation",
+    "topics": [
+      "tooling",
+      "frontend",
+      "craft"
+    ],
+    "description": "Add the Agentation visual feedback toolbar to a Next.js project and wire it so browser feedback reaches the coding agent."
+  },
+  {
+    "slug": "agentation-self-driving",
+    "user": "benjitaylor",
+    "repo": "agentation",
+    "rawUrl": "https://raw.githubusercontent.com/benjitaylor/agentation/main/skills/agentation-self-driving/SKILL.md",
+    "githubUrl": "https://github.com/benjitaylor/agentation/blob/main/skills/agentation-self-driving/SKILL.md",
+    "name": "agentation-self-driving",
+    "topics": [
+      "testing",
+      "craft",
+      "tooling"
+    ],
+    "description": "Autonomous design critique via the Agentation toolbar — annotate a live page in a headed browser for UI review and self-driving feedback."
   }
 ]
