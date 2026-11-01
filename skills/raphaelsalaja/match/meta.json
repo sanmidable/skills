@@ -1,0 +1,16 @@
+{
+  "slug": "match",
+  "name": "match",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/match/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/match/SKILL.md",
+  "description": "Rebuilds a named reference from its real source and computed values, then compares the two side by side.",
+  "topics": [
+    "visual",
+    "craft",
+    "testing"
+  ],
+  "pathSlug": "raphaelsalaja/match",
+  "installs": 0
+}

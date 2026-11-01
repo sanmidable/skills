@@ -1,0 +1,16 @@
+{
+  "slug": "frames",
+  "name": "frames",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/frames/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/frames/SKILL.md",
+  "description": "Records a performance trace of one interaction on a throttled CPU, names what drops frames or delays input, then proves the fix with a second trace.",
+  "topics": [
+    "performance",
+    "motion",
+    "testing"
+  ],
+  "pathSlug": "raphaelsalaja/frames",
+  "installs": 0
+}

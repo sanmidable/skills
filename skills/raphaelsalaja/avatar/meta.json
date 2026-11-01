@@ -1,0 +1,16 @@
+{
+  "slug": "avatar",
+  "name": "avatar",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/avatar/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/avatar/SKILL.md",
+  "description": "Draws any object as a flat character with two capsule eyes, then animates its whole body so it glances, blinks, breathes, follows the pointer and falls asleep.",
+  "topics": [
+    "motion",
+    "visual",
+    "craft"
+  ],
+  "pathSlug": "raphaelsalaja/avatar",
+  "installs": 0
+}

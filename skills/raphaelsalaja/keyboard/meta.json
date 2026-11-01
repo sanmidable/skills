@@ -1,0 +1,16 @@
+{
+  "slug": "keyboard",
+  "name": "keyboard",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/keyboard/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/keyboard/SKILL.md",
+  "description": "Walks a running page with the keyboard alone, records every focus stop and reports controls it cannot reach, see or operate.",
+  "topics": [
+    "accessibility",
+    "testing",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/keyboard",
+  "installs": 0
+}

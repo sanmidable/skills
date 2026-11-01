@@ -1,0 +1,16 @@
+{
+  "slug": "animation-performance",
+  "name": "animation-performance",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animation-performance/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animation-performance/SKILL.md",
+  "description": "Keep web animations inside the frame budget — composite-only properties, main-thread cost, jank diagnosis. For easing/duration use animate; for craft review use review-animations.",
+  "topics": [
+    "performance",
+    "motion",
+    "craft"
+  ],
+  "pathSlug": "emilkowalski/animation-performance",
+  "installs": 0
+}

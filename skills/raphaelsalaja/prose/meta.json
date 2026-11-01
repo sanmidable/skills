@@ -1,0 +1,16 @@
+{
+  "slug": "prose",
+  "name": "prose",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/prose/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/prose/SKILL.md",
+  "description": "Writes posts and breakdowns that open on where the author stands, show the options that lost, give exact numbers and mark every guess as a guess.",
+  "topics": [
+    "taste",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/prose",
+  "installs": 0
+}

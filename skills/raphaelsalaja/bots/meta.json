@@ -1,0 +1,16 @@
+{
+  "slug": "bots",
+  "name": "bots",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/bots/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/bots/SKILL.md",
+  "description": "Turns chosen Grok Bots into a shakeable pile, portfolio cards and an org chart page, each with a link to copy the bot, with private details stripped.",
+  "topics": [
+    "tooling",
+    "visual",
+    "craft"
+  ],
+  "pathSlug": "raphaelsalaja/bots",
+  "installs": 0
+}

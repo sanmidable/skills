@@ -1,0 +1,16 @@
+{
+  "slug": "lab",
+  "name": "lab",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/lab/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/lab/SKILL.md",
+  "description": "Builds a temporary page that shows every variant and state of real components at once, each linked to its source.",
+  "topics": [
+    "frontend",
+    "craft",
+    "systems"
+  ],
+  "pathSlug": "raphaelsalaja/lab",
+  "installs": 0
+}

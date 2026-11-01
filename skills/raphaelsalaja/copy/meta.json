@@ -1,0 +1,16 @@
+{
+  "slug": "copy",
+  "name": "copy",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/copy/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/copy/SKILL.md",
+  "description": "Writes interface labels in Title Case, short and plain, with one-line descriptions and no em dashes.",
+  "topics": [
+    "taste",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/copy",
+  "installs": 0
+}

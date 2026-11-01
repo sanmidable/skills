@@ -1,0 +1,16 @@
+{
+  "slug": "deconstruct",
+  "name": "deconstruct",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/deconstruct/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/deconstruct/SKILL.md",
+  "description": "Breaks an animation or interaction into a state machine and a timeline of every property, on a page you can scrub and edit.",
+  "topics": [
+    "motion",
+    "craft",
+    "testing"
+  ],
+  "pathSlug": "raphaelsalaja/deconstruct",
+  "installs": 0
+}

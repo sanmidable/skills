@@ -1,0 +1,16 @@
+{
+  "slug": "restraint",
+  "name": "restraint",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/restraint/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/restraint/SKILL.md",
+  "description": "Ships the smallest thing that does the job and deletes what nobody asked for.",
+  "topics": [
+    "taste",
+    "craft",
+    "architecture"
+  ],
+  "pathSlug": "raphaelsalaja/restraint",
+  "installs": 0
+}

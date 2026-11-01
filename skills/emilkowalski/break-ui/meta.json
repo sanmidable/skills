@@ -1,0 +1,16 @@
+{
+  "slug": "break-ui",
+  "name": "break-ui",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/break-ui/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/break-ui/SKILL.md",
+  "description": "Stress-test UI with worst-case data (long names, missing fields, extreme counts) behind a Demo/Worst-case toggle and report every break with a fix.",
+  "topics": [
+    "testing",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "emilkowalski/break-ui",
+  "installs": 0
+}

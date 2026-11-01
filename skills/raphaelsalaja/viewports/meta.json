@@ -1,0 +1,16 @@
+{
+  "slug": "viewports",
+  "name": "viewports",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/viewports/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/viewports/SKILL.md",
+  "description": "Renders a page at every width, each breakpoint edge, a short landscape phone and 200% text, then reports what overflows, clips or hides.",
+  "topics": [
+    "frontend",
+    "testing",
+    "visual"
+  ],
+  "pathSlug": "raphaelsalaja/viewports",
+  "installs": 0
+}

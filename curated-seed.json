@@ -210,104 +210,6 @@
     "description": "Flagship design skill for production-grade, anti-generic frontend interfaces with strong craft and consistency."
   },
   {
-    "slug": "12-principles-of-animation",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/12-principles-of-animation/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/12-principles-of-animation/SKILL.md",
-    "name": "12-principles-of-animation",
-    "topics": [
-      "motion",
-      "interaction",
-      "visual"
-    ],
-    "description": "Apply Disney's 12 animation principles to web interfaces to make motion feel natural, organic, and human."
-  },
-  {
-    "slug": "generating-sounds-with-ai",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/generating-sounds-with-ai/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/generating-sounds-with-ai/SKILL.md",
-    "name": "generating-sounds-with-ai",
-    "topics": [
-      "interaction",
-      "craft",
-      "frontend"
-    ],
-    "description": "Audit Web Audio API code for sound synthesis best practices — procedural audio, UI sounds, and audio parameter quality."
-  },
-  {
-    "slug": "mastering-animate-presence",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/mastering-animate-presence/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/mastering-animate-presence/SKILL.md",
-    "name": "mastering-animate-presence",
-    "topics": [
-      "motion",
-      "interaction",
-      "frontend"
-    ],
-    "description": "Audit Motion/Framer Motion AnimatePresence usage — exit animations, modals, and presence state best practices."
-  },
-  {
-    "slug": "morphing-icons",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/morphing-icons/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/morphing-icons/SKILL.md",
-    "name": "morphing-icons",
-    "topics": [
-      "motion",
-      "visual",
-      "craft"
-    ],
-    "description": "Build icon components that morph into each other through SVG line transformation — icon transitions and transforms."
-  },
-  {
-    "slug": "pseudo-elements",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/pseudo-elements/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/pseudo-elements/SKILL.md",
-    "name": "pseudo-elements",
-    "topics": [
-      "frontend",
-      "visual",
-      "motion"
-    ],
-    "description": "Audit CSS pseudo-elements and View Transitions API usage — hover effects, decorative layers, and page transitions."
-  },
-  {
-    "slug": "sounds-on-the-web",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/sounds-on-the-web/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/sounds-on-the-web/SKILL.md",
-    "name": "sounds-on-the-web",
-    "topics": [
-      "interaction",
-      "accessibility",
-      "craft"
-    ],
-    "description": "Audit UI audio feedback — sound implementation, audio UX decisions, and accessibility."
-  },
-  {
-    "slug": "to-spring-or-not-to-spring",
-    "user": "raphaelsalaja",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/to-spring-or-not-to-spring/SKILL.md",
-    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/to-spring-or-not-to-spring/SKILL.md",
-    "name": "to-spring-or-not-to-spring",
-    "topics": [
-      "motion",
-      "craft",
-      "testing"
-    ],
-    "description": "Audit animation timing — when to use springs vs easing, and fix motion that feels wrong."
-  },
-  {
     "slug": "baseline-ui",
     "user": "ibelick",
     "repo": "ui-skills",
@@ -810,5 +712,369 @@
       "tooling"
     ],
     "description": "Autonomous design critique via the Agentation toolbar — annotate a live page in a headed browser for UI review and self-driving feedback."
+  },
+  {
+    "slug": "alignment",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/alignment/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/alignment/SKILL.md",
+    "name": "alignment",
+    "topics": [
+      "visual",
+      "craft",
+      "testing"
+    ],
+    "description": "Measures a running page for edges, gaps, centring and radii that miss by a pixel or two, then judges visual weight and returns a numbered report with proof."
+  },
+  {
+    "slug": "audit",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/audit/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/audit/SKILL.md",
+    "name": "audit",
+    "topics": [
+      "testing",
+      "craft",
+      "architecture"
+    ],
+    "description": "Reviews a change, a session or a whole codebase against every skill in this collection and returns one ranked, numbered report."
+  },
+  {
+    "slug": "avatar",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/avatar/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/avatar/SKILL.md",
+    "name": "avatar",
+    "topics": [
+      "motion",
+      "visual",
+      "craft"
+    ],
+    "description": "Draws any object as a flat character with two capsule eyes, then animates its whole body so it glances, blinks, breathes, follows the pointer and falls asleep."
+  },
+  {
+    "slug": "bots",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/bots/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/bots/SKILL.md",
+    "name": "bots",
+    "topics": [
+      "tooling",
+      "visual",
+      "craft"
+    ],
+    "description": "Turns chosen Grok Bots into a shakeable pile, portfolio cards and an org chart page, each with a link to copy the bot, with private details stripped."
+  },
+  {
+    "slug": "color",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/color/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/color/SKILL.md",
+    "name": "color",
+    "topics": [
+      "visual",
+      "systems",
+      "accessibility"
+    ],
+    "description": "Holds text and control contrast to exact ratios, routes colour through role tokens and gives dark mode its own palette."
+  },
+  {
+    "slug": "copy",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/copy/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/copy/SKILL.md",
+    "name": "copy",
+    "topics": [
+      "taste",
+      "craft",
+      "frontend"
+    ],
+    "description": "Writes interface labels in Title Case, short and plain, with one-line descriptions and no em dashes."
+  },
+  {
+    "slug": "deconstruct",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/deconstruct/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/deconstruct/SKILL.md",
+    "name": "deconstruct",
+    "topics": [
+      "motion",
+      "craft",
+      "testing"
+    ],
+    "description": "Breaks an animation or interaction into a state machine and a timeline of every property, on a page you can scrub and edit."
+  },
+  {
+    "slug": "defaults",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/defaults/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/defaults/SKILL.md",
+    "name": "defaults",
+    "topics": [
+      "systems",
+      "craft",
+      "frontend"
+    ],
+    "description": "Applies house defaults for scroll edges, surfaces, type, sound, focus, forms, loading, hotkeys and dialogs."
+  },
+  {
+    "slug": "frames",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/frames/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/frames/SKILL.md",
+    "name": "frames",
+    "topics": [
+      "performance",
+      "motion",
+      "testing"
+    ],
+    "description": "Records a performance trace of one interaction on a throttled CPU, names what drops frames or delays input, then proves the fix with a second trace."
+  },
+  {
+    "slug": "gather",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/gather/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/gather/SKILL.md",
+    "name": "gather",
+    "topics": [
+      "taste",
+      "visual",
+      "craft"
+    ],
+    "description": "Collects references from the user's own library, their boards and pattern sites onto one linked board before a design is built."
+  },
+  {
+    "slug": "keyboard",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/keyboard/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/keyboard/SKILL.md",
+    "name": "keyboard",
+    "topics": [
+      "accessibility",
+      "testing",
+      "frontend"
+    ],
+    "description": "Walks a running page with the keyboard alone, records every focus stop and reports controls it cannot reach, see or operate."
+  },
+  {
+    "slug": "lab",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/lab/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/lab/SKILL.md",
+    "name": "lab",
+    "topics": [
+      "frontend",
+      "craft",
+      "systems"
+    ],
+    "description": "Builds a temporary page that shows every variant and state of real components at once, each linked to its source."
+  },
+  {
+    "slug": "match",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/match/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/match/SKILL.md",
+    "name": "match",
+    "topics": [
+      "visual",
+      "craft",
+      "testing"
+    ],
+    "description": "Rebuilds a named reference from its real source and computed values, then compares the two side by side."
+  },
+  {
+    "slug": "motion",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/motion/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/motion/SKILL.md",
+    "name": "motion",
+    "topics": [
+      "motion",
+      "craft",
+      "interaction"
+    ],
+    "description": "Applies house motion for what animates, easing, durations, springs, gestures, exits and reduced motion."
+  },
+  {
+    "slug": "prose",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/prose/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/prose/SKILL.md",
+    "name": "prose",
+    "topics": [
+      "taste",
+      "craft",
+      "frontend"
+    ],
+    "description": "Writes posts and breakdowns that open on where the author stands, show the options that lost, give exact numbers and mark every guess as a guess."
+  },
+  {
+    "slug": "prototype",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/prototype/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/prototype/SKILL.md",
+    "name": "prototype",
+    "topics": [
+      "craft",
+      "visual",
+      "interaction"
+    ],
+    "description": "Builds several real, labelled variants of one idea on a single page so the user can pick, then deletes the rest."
+  },
+  {
+    "slug": "restraint",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/restraint/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/restraint/SKILL.md",
+    "name": "restraint",
+    "topics": [
+      "taste",
+      "craft",
+      "architecture"
+    ],
+    "description": "Ships the smallest thing that does the job and deletes what nobody asked for."
+  },
+  {
+    "slug": "reuse",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/reuse/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/reuse/SKILL.md",
+    "name": "reuse",
+    "topics": [
+      "architecture",
+      "frontend",
+      "craft"
+    ],
+    "description": "Reaches for the project's own components, then a maintained library, then a native feature, before writing new code."
+  },
+  {
+    "slug": "rule",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/rule/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/rule/SKILL.md",
+    "name": "rule",
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "Turns a repeated correction into a short project rule with the broken and fixed line, then applies it to existing code."
+  },
+  {
+    "slug": "scope",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/scope/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/scope/SKILL.md",
+    "name": "scope",
+    "topics": [
+      "architecture",
+      "craft",
+      "tooling"
+    ],
+    "description": "Changes exactly what was asked, keeps what already worked and finishes every item in the message."
+  },
+  {
+    "slug": "ship",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/ship/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/ship/SKILL.md",
+    "name": "ship",
+    "topics": [
+      "tooling",
+      "architecture",
+      "frontend"
+    ],
+    "description": "Commits, pushes, merges and releases a change, watches the checks and confirms it is live."
+  },
+  {
+    "slug": "verify",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/verify/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/verify/SKILL.md",
+    "name": "verify",
+    "topics": [
+      "testing",
+      "craft",
+      "frontend"
+    ],
+    "description": "Checks a change in the running app before calling it done, then says where to see it."
+  },
+  {
+    "slug": "viewports",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/viewports/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/viewports/SKILL.md",
+    "name": "viewports",
+    "topics": [
+      "frontend",
+      "testing",
+      "visual"
+    ],
+    "description": "Renders a page at every width, each breakpoint edge, a short landscape phone and 200% text, then reports what overflows, clips or hides."
+  },
+  {
+    "slug": "animation-performance",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animation-performance/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animation-performance/SKILL.md",
+    "name": "animation-performance",
+    "topics": [
+      "performance",
+      "motion",
+      "craft"
+    ],
+    "description": "Keep web animations inside the frame budget — composite-only properties, main-thread cost, jank diagnosis. For easing/duration use animate; for craft review use review-animations."
+  },
+  {
+    "slug": "break-ui",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/break-ui/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/break-ui/SKILL.md",
+    "name": "break-ui",
+    "topics": [
+      "testing",
+      "craft",
+      "frontend"
+    ],
+    "description": "Stress-test UI with worst-case data (long names, missing fields, extreme counts) behind a Demo/Worst-case toggle and report every break with a fix."
+  },
+  {
+    "slug": "remove-animations",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/remove-animations/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/remove-animations/SKILL.md",
+    "name": "remove-animations",
+    "topics": [
+      "motion",
+      "craft",
+      "performance"
+    ],
+    "description": "Find animations the interface does not need and remove them — never adds or retunes motion. For places that should animate use find-animation-opportunities."
   }
 ]

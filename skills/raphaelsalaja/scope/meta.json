@@ -1,0 +1,16 @@
+{
+  "slug": "scope",
+  "name": "scope",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/scope/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/scope/SKILL.md",
+  "description": "Changes exactly what was asked, keeps what already worked and finishes every item in the message.",
+  "topics": [
+    "architecture",
+    "craft",
+    "tooling"
+  ],
+  "pathSlug": "raphaelsalaja/scope",
+  "installs": 0
+}

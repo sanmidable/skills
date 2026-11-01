@@ -1,0 +1,16 @@
+{
+  "slug": "verify",
+  "name": "verify",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/verify/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/verify/SKILL.md",
+  "description": "Checks a change in the running app before calling it done, then says where to see it.",
+  "topics": [
+    "testing",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/verify",
+  "installs": 0
+}

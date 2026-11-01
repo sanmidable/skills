@@ -1,0 +1,16 @@
+{
+  "slug": "color",
+  "name": "color",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/color/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/color/SKILL.md",
+  "description": "Holds text and control contrast to exact ratios, routes colour through role tokens and gives dark mode its own palette.",
+  "topics": [
+    "visual",
+    "systems",
+    "accessibility"
+  ],
+  "pathSlug": "raphaelsalaja/color",
+  "installs": 0
+}

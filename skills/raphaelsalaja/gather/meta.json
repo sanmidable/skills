@@ -1,0 +1,16 @@
+{
+  "slug": "gather",
+  "name": "gather",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/gather/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/gather/SKILL.md",
+  "description": "Collects references from the user's own library, their boards and pattern sites onto one linked board before a design is built.",
+  "topics": [
+    "taste",
+    "visual",
+    "craft"
+  ],
+  "pathSlug": "raphaelsalaja/gather",
+  "installs": 0
+}

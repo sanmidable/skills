@@ -1,0 +1,16 @@
+{
+  "slug": "defaults",
+  "name": "defaults",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/defaults/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/defaults/SKILL.md",
+  "description": "Applies house defaults for scroll edges, surfaces, type, sound, focus, forms, loading, hotkeys and dialogs.",
+  "topics": [
+    "systems",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/defaults",
+  "installs": 0
+}

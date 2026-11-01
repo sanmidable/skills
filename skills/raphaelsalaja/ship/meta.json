@@ -1,0 +1,16 @@
+{
+  "slug": "ship",
+  "name": "ship",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/ship/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/ship/SKILL.md",
+  "description": "Commits, pushes, merges and releases a change, watches the checks and confirms it is live.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/ship",
+  "installs": 0
+}

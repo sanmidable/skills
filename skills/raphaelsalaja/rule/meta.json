@@ -1,0 +1,16 @@
+{
+  "slug": "rule",
+  "name": "rule",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/rule/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/rule/SKILL.md",
+  "description": "Turns a repeated correction into a short project rule with the broken and fixed line, then applies it to existing code.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "raphaelsalaja/rule",
+  "installs": 0
+}

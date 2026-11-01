@@ -1,0 +1,16 @@
+{
+  "slug": "prototype",
+  "name": "prototype",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/prototype/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/prototype/SKILL.md",
+  "description": "Builds several real, labelled variants of one idea on a single page so the user can pick, then deletes the rest.",
+  "topics": [
+    "craft",
+    "visual",
+    "interaction"
+  ],
+  "pathSlug": "raphaelsalaja/prototype",
+  "installs": 0
+}

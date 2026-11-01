@@ -1,0 +1,16 @@
+{
+  "slug": "reuse",
+  "name": "reuse",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/reuse/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/reuse/SKILL.md",
+  "description": "Reaches for the project's own components, then a maintained library, then a native feature, before writing new code.",
+  "topics": [
+    "architecture",
+    "frontend",
+    "craft"
+  ],
+  "pathSlug": "raphaelsalaja/reuse",
+  "installs": 0
+}
