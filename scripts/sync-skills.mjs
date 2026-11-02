@@ -57,6 +57,7 @@ for (const skill of seed) {
           topics: skill.topics,
           pathSlug: `${skill.user}/${skill.slug}`,
           installs,
+          ...(skill.addedAt ? { addedAt: skill.addedAt } : {}),
         },
         null,
         2,

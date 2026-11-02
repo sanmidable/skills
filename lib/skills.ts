@@ -27,8 +27,10 @@ export function getSkills(): SkillMeta[] {
   return walkMetaFiles(skillsRoot)
     .map((file) => JSON.parse(fs.readFileSync(file, "utf8")) as SkillMeta)
     .sort((a, b) => {
-      const installDelta = (b.installs ?? 0) - (a.installs ?? 0);
-      if (installDelta !== 0) return installDelta;
+      const aDate = a.addedAt ?? "";
+      const bDate = b.addedAt ?? "";
+      const dateDelta = bDate.localeCompare(aDate);
+      if (dateDelta !== 0) return dateDelta;
       return a.pathSlug.localeCompare(b.pathSlug);
     });
 }

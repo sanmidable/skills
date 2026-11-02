@@ -1,4 +1,5 @@
 ---name: transitions-dev
+license: Free for personal and commercial use; see LICENSE.txt (no redistribution of the library itself)
 description: Production-ready CSS transitions for web apps. Use when implementing notification badges, dropdowns, modals, panel reveals, page transitions, card resizes, number pop-ins, text swaps, icon swaps, success checks, avatar group hovers, error state shakes, search/input clear, skeleton loaders, shimmer text, sliding tabs, tooltips, staggered text reveals, card hover tilt, plus-to-menu morph, accordions, toasts, like buttons, learn-more hovers, checkbox checks, spinning counters, toggles, AI thinking states, reasoning streams, streaming text, matrix dot loaders, or banner stacking. Triggers on "add a transition", "animate the dropdown", "make the modal open smoothly", "swap icon", "page slide", "stagger animation", "open / close transition", "make it animate", "fade between", "success animation", "form error", "shake on invalid", "hover lift", "avatar stack hover", "clear the search", "skeleton loader", "loading shimmer", "shimmer text", "sliding tabs", "segmented control", "tooltip", "reveal text", "tilt card", "3D hover tilt", "cursor glare", "plus to menu", "FAB morph", "accordion", "collapsible", "expand / collapse", "disclosure", "toast", "snackbar", "like button", "heart animation", "learn more arrow", "checkbox", "check animation", "spinning counter", "odometer", "slot machine digits", "toggle", "switch", "thinking states", "AI status line", "agent reasoning", "reasoning stream", "streaming text", "stream words in", "matrix loader", "dot loader", "banner stack", "stacked toasts". Also "motion tokens", "scan for ad-hoc transitions", "replace hardcoded durations with motion tokens", "tokenize my animations", and the commands transitions reveal, transitions review, transitions apply, transitions refine.
 author: Jakubantalik
 source: https://github.com/Jakubantalik/transitions.dev
@@ -45,6 +46,9 @@ Thirty-two portable CSS transitions, each namespaced under `t-*` selectors with 
 | **Streaming text** | Resolve streamed words one by one through a soft cross-blur. | [30-streaming-text.md](./30-streaming-text.md) |
 | **Matrix dot loader** | Pulse a 4×4 dot matrix in scan / twinkle / orbit / pulse patterns. | [31-matrix-loader.md](./31-matrix-loader.md) |
 | **Banner stacking** | Stack banners like toasts — new ones rise in, older ones push back. | [32-banner-stacking.md](./32-banner-stacking.md) |
+| **Text morph** | Keep the letters two labels share and cross-blur only the part that changes, easing its width. | [33-text-morph.md](./33-text-morph.md) |
+| **Text swap soft** | Cross-blur a value into the new one in place, both at once, with no movement. | [34-text-swap-soft.md](./34-text-swap-soft.md) |
+| **Donut chart** | Ring segments with even gaps and rounded corners that morph to new values. | [35-donut-chart.md](./35-donut-chart.md) |
 
 ## Decision rules
 
@@ -55,7 +59,10 @@ When the user asks for a transition, match against the visible UI element first,
 - **Surface that slides into a region of the page** → panel reveal.
 - **Two screens, list ↔ detail or step 1 ↔ step 2** → page side-by-side.
 - **Element changes width or height** → card resize.
-- **Element's text content changes in place** → text states swap.
+- **A label changes in place and the old and new text share letters at the start or end** (Copy code to Copied, Follow to Following) → text morph.
+- **Element's text content changes in place and the texts share nothing** (Processing to Done) → text states swap.
+- **Values update in place because the data behind a view changed** (a chart's period, a currency, a unit) → text swap soft for every value that changed.
+- **A donut or ring chart** → donut chart (even gaps, the smallest corner radius, morphs when its data changes).
 - **Two icons in the same slot** → icon swap.
 - **A number updates** → number pop-in.
 - **Confirmation / success / "done" moment** (checkmark, payment processed, file uploaded) → success check.
@@ -246,4 +253,7 @@ Keep the diff small: only edit the files needed to introduce the transition. Don
 - [30-streaming-text.md](./30-streaming-text.md) — Streaming text
 - [31-matrix-loader.md](./31-matrix-loader.md) — Matrix dot loader
 - [32-banner-stacking.md](./32-banner-stacking.md) — Banner stacking
+- [33-text-morph.md](./33-text-morph.md): Text morph
+- [34-text-swap-soft.md](./34-text-swap-soft.md): Text swap soft
+- [35-donut-chart.md](./35-donut-chart.md): Donut chart
 - [_root.css](./_root.css) — the universal install block on its own, ready to import directly.
