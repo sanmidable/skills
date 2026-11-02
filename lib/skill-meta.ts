@@ -11,8 +11,8 @@ export type SkillMeta = {
   topics: TopicSlug[];
   pathSlug: string;
   installs?: number;
-  /** ISO date (YYYY-MM-DD) when the skill was added to the catalog */
-  addedAt?: string;
+  /** ISO date (YYYY-MM-DD) when the author first published the skill upstream */
+  publishedAt?: string;
 };
 
 export function formatInstalls(count = 0): string {
